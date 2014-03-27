@@ -1,7 +1,7 @@
 {
   "author": "Christopher De Cairos <cade@mozillafoundation.org>",
   "name": "cookie-js",
-  "description": "cookie parsing and serialization for the browser",
+  "description": "cookie parsing and serialization for the browser!",
   "version": "0.0.1",
   "repository": {
     "type": "git",

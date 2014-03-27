@@ -1,17 +1,17 @@
 {
-  "author": "Roman Shtylman <shtylman@gmail.com>",
-  "name": "cookie",
-  "description": "cookie parsing and serialization",
-  "version": "0.1.1",
+  "author": "Christopher De Cairos <cade@mozillafoundation.org>",
+  "name": "cookie-js",
+  "description": "cookie parsing and serialization for the browser",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git://github.com/shtylman/node-cookie.git"
+    "url": "git://github.com/cadecairos/cookie-js.git"
   },
   "keywords": [
     "cookie",
     "cookies"
   ],
-  "main": "index.js",
+  "main": "cookie.js",
   "scripts": {
     "test": "mocha"
   },
